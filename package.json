@@ -1,0 +1,13 @@
+{
+  "name": "@jrbalbin/greatest_calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "homepage": "https://greatestcalculatorevermade.com",
+  "author": "Elmer Balbin",
+  "license": "ISC",
+  "description": "It's the greatest ever!"
+}
