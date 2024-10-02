@@ -5,9 +5,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "greatest calculator",
+    "best calculator"
+  ],
   "homepage": "https://greatestcalculatorevermade.com",
   "author": "Elmer Balbin",
   "license": "ISC",
-  "description": "It's the greatest ever!"
+  "description": "It's the greatest ever!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elmerdotdev/npm_practice_greatest_calculator.git"
+  }
 }
